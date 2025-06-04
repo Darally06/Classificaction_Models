@@ -1,0 +1,13 @@
+jupyter-book
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+os
+time
+faiss
+lime
+xgboost
+scipy
+
